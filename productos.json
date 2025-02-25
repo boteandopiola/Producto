@@ -1,0 +1,4 @@
+[
+    {"articulo": "Producto 1", "descripcion": "Camara", "stock": 10, "precio_costo": 100, "precio_venta": 150},
+    {"articulo": "Producto 2", "descripcion": "Linterna", "stock": 5, "precio_costo": 200, "precio_venta": 250}
+]
