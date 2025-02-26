@@ -1,16 +1,16 @@
 [
     {
-        "articulo": "Teclado",
-        "descripcion": "Teclado mecánico RGB",
-        "stock": 5,
-        "precio_costo": 3000,
-        "precio_venta": 4500
+        "articulo": "Producto1",
+        "descripcion": "Ejemplo",
+        "stock": 10,
+        "precio_costo": 150,
+        "precio_venta": 250
     },
     {
-        "articulo": "Mouse",
-        "descripcion": "Mouse gamer inalámbrico",
-        "stock": 8,
-        "precio_costo": 2500,
-        "precio_venta": 4000
+        "articulo": "Producto2",
+        "descripcion": "Otro ejemplo",
+        "stock": 5,
+        "precio_costo": 100,
+        "precio_venta": 200
     }
 ]
