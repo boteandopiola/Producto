@@ -1,12 +1,16 @@
 [
-    {"articulo": "Producto 1", "descripcion": "Camara", "stock": 10, "precio_costo": 100, "precio_venta": 150},
-    {"articulo": "Producto 2", "descripcion": "Linterna", "stock": 5, "precio_costo": 200, "precio_venta": 250}
-    {"articulo": "Producto 2", "descripcion": "Mouse", "stock": 5, "precio_costo": 200, "precio_venta": 250}
-    {"articulo": "Producto 2", "descripcion": "Martillo", "stock": 5, "precio_costo": 200, "precio_venta": 250}
-    {"articulo": "Producto 2", "descripcion": "Camara", "stock": 5, "precio_costo": 200, "precio_venta": 250}
-    {"articulo": "Producto 2", "descripcion": "Linterna", "stock": 5, "precio_costo": 200, "precio_venta": 250}
-    {"articulo": "Producto 2", "descripcion": "Parlante", "stock": 5, "precio_costo": 200, "precio_venta": 250}
-    {"articulo": "Producto 2", "descripcion": "Luz Neon", "stock": 5, "precio_costo": 200, "precio_venta": 250}
-    {"articulo": "Producto 2", "descripcion": "Colchonet", "stock": 5, "precio_costo": 200, "precio_venta": 250}
-    {"articulo": "Producto 2", "descripcion": "Parabriza", "stock": 5, "precio_costo": 200, "precio_venta": 250}
+    {
+        "articulo": "Teclado",
+        "descripcion": "Teclado mecánico RGB",
+        "stock": 5,
+        "precio_costo": 3000,
+        "precio_venta": 4500
+    },
+    {
+        "articulo": "Mouse",
+        "descripcion": "Mouse gamer inalámbrico",
+        "stock": 8,
+        "precio_costo": 2500,
+        "precio_venta": 4000
+    }
 ]
